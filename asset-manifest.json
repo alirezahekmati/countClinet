@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/countClinet/static/css/main.31d6cfe0.css",
+    "main.js": "/countClinet/static/js/main.5874052c.js",
+    "index.html": "/countClinet/index.html",
+    "main.5874052c.js.map": "/countClinet/static/js/main.5874052c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5874052c.js"
+  ]
+}
